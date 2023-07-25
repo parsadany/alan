@@ -1,0 +1,8 @@
+venv/
+data/
+env
+*/__pycache__/
+*/migrations/__pycache__/
+.gitlab*
+.vscode/
+Dockerfile
